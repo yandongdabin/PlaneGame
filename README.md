@@ -3,10 +3,10 @@ A plane game written in MFC
 
 ##功能
 
-+关卡
-+BOSS
-+道具
-+单人以及双人对战
++ 关卡
++ BOSS
++ 道具
++ 单人以及双人对战
 
 
 ##运行效果
