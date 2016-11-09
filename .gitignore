@@ -1,0 +1,7 @@
+/Debug/*
+/Release/*
+/Game/Debug
+/Game/Release
+*.aps
+*.user
+*.ncb
